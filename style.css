@@ -1,0 +1,69 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.training1 {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    min-height: calc(100% - 20px);
+    box-sizing: border-box;
+}
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #7a8fd4;
+    border-radius: 5px;
+}
+.part1 {
+    width: 50%;
+    border-color: #ffffff;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    margin-top: 0%;
+}
+table {
+    width: 50%;
+    border-color: #ffffff;
+    border-width: 5px;
+    border-radius: 5px;
+    font-size: 1.4em;
+    margin: 10px;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #c6d3ff;
+}
+
+/* Class example - can be reused multiple times */
+.highlight {
+    background-color: pink;
+    padding: 5px;
+    text-align: center;
+}
+#page-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    background-color: pink;
+    color: white;
+    border-radius: 5px;
+    padding: 0px;
+}
