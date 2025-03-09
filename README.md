@@ -61,4 +61,4 @@ This project is licensed under the MIT License.
 
 ### Contact
 
-For any inquiries, please contact [qaisariayman@gmail.com](qaisariayman@gmail.com).
+For any inquiries, don't hesitate to contact [qaisariayman@gmail.com](mailto:qaisariayman@gmail.com).
