@@ -1,7 +1,8 @@
 # Simple Website
 
 This repository contains a simple website project. The main languages used in this project are HTML, CSS, and JavaScript.
-<a href="
+<a href="https://qaisari.github.io/simple-website/"><img src="simple-website.png" alt="simple-website" width="400"/></a>
+<strong><p>Click On The Picture To Go To Website</p></strong>
 
 ## Project Structure
 
